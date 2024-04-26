@@ -1,0 +1,38 @@
+.box{
+    display: inline-block;
+    background-color: blue;
+    width: 20%;
+    padding: 50px;
+    margin: 0px 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.box1{
+    background-color:red;
+    padding: 70px;
+    width: 45%;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.ab{
+    display: inline-block;
+    background-color: blue;
+    width: 20%;
+    padding: 50px;
+    margin: 0px 40px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.cd{
+    background-color:red;
+    padding: 70px;
+    width: 45%;
+    height: 20px;
+    /* margin-left: 20px; */
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
